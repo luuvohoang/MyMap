@@ -53,25 +53,25 @@ Run three different Shells for backend (nodeJS), frontend (react app) and socket
 -   Ex:REACT_API_HERE_KEY=yourKeyHere ...
 
 - Install npm packages and start the project
-npm i 
-npm run dev
+-> npm i 
+-> npm run dev
 
 ### NodeJs
 
 - cd -> ./api
 
 - Install npm packages and start the project
-npm i 
-npx prisma db push
-npm run dev
+-> npm i 
+-> npx prisma db push
+-> npm run dev
 
 ### Socket.io
 
 - cd -> ./socket
 
 - Install npm packages and start the project
-npm i 
-npm run dev
+-> npm i 
+-> npm run dev
 
 ### And download Console Ninja
 
