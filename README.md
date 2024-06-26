@@ -34,7 +34,7 @@ Our website is designed to help customers easily search for and rent rooms that 
 - **Convenience and Safety**: Online communication allows customers to comfortably ask questions and confirm information before visiting the room, reducing risks and increasing safety.
 - **Diverse and Accurate Information**: All information about rooms is carefully reviewed, ensuring reliability and accuracy.
 
-### How we built it 🤞🏿
+### How I built it 🤞🏿
 The project was primarily built with the MERN stack (MongoDB, ExpressJS and ReactJS, and NodeJS).
 Prisma to communicate with database, cookie-parser to authority user.
 You can use openssl rand -base64 32 to generate jwt_URL.
@@ -50,7 +50,7 @@ Run three different Shells for backend (nodeJS), frontend (react app) and socket
 
 - Create a .env file with sample_env
 
--   Ex:REACT_API_HERE_KEY=yourKeyHere ...
+- Ex:REACT_API_HERE_KEY=yourKeyHere ...
 
 - Install npm packages and start the project
 -> npm i 
