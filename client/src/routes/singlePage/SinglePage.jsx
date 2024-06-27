@@ -76,11 +76,11 @@ function SinglePage() {
                         <div className="feature">
                             <img src="/pet.png" alt="" />
                             <div className="featureText">
-                                <span>Pet Policy</span>
+                                <span>University</span>
                                 {post.postDetail.pet === "allowed" ? (
-                                    <p>Pets Allowed</p>
+                                    <p>Near University</p>
                                 ) : (
-                                    <p>Pets not Allowed</p>
+                                    <p>not near University</p>
                                 )}
                             </div>
                         </div>
